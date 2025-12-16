@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Mr. Rahman", "subject": "Math" },
+  { "id": 2, "name": "Ms. Akter", "subject": "Physics" },
+  { "id": 3, "name": "Mr. Hasan", "subject": "Chemistry" },
+  { "id": 4, "name": "Ms. Jahan", "subject": "Biology" },
+  { "id": 5, "name": "Mr. Karim", "subject": "English" },
+  { "id": 6, "name": "Ms. Sultana", "subject": "ICT" },
+  { "id": 7, "name": "Mr. Islam", "subject": "Economics" },
+  { "id": 8, "name": "Ms. Nahar", "subject": "Accounting" },
+  { "id": 9, "name": "Mr. Chowdhury", "subject": "Finance" },
+  { "id": 10, "name": "Ms. Runa", "subject": "Management" },
+  { "id": 11, "name": "Mr. Alam", "subject": "Statistics" },
+  { "id": 12, "name": "Ms. Noor", "subject": "Bangla" }
+]
