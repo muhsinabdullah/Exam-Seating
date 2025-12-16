@@ -24,6 +24,14 @@ const Navbar = () => {
                 >
                     Home
                 </NavLink>
+                <NavLink
+                    to="/about"
+                    className={({ isActive }) =>
+                        `btn btn-ghost btn-sm ${isActive ? "btn-active" : ""}`
+                    }
+                >
+                    About
+                </NavLink>
 
                 {user && (
                     <NavLink
